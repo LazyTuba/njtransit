@@ -1,0 +1,15 @@
+{
+    "name": "@lazytuba/njtransit",
+    "version": "1.0.0",
+    "description": "Extract useful information from NJ Transit schedule/route data",
+    "main": "njtransit.js",
+    "repository": "git@github.com:LazyTuba/njtransit.git",
+    "scripts": {
+	"test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "LazyTuba",
+    "license": "ISC",
+    "dependencies": {
+	"csv-dict": "^1.0.3"
+    }
+}

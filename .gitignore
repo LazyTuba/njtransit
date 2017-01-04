@@ -1,0 +1,17 @@
+# node dependencies
+node_modules
+
+# backup files
+*~
+*.org
+*#
+*.HOLD
+
+# Other ignorables
+Data
+DevTools
+
+# log iles
+*.log
+
+# END
